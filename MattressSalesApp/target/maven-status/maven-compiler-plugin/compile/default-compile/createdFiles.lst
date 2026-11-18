@@ -1,0 +1,6 @@
+guiApp\IProductCalculations.class
+consoleApp\IProduct.class
+guiApp\ProductCalculations.class
+consoleApp\Product.class
+consoleApp\MainConsole.class
+consoleApp\PrintProduct.class
